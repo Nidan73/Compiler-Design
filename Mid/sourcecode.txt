@@ -1,0 +1,7 @@
+int hello ( ) {
+int num1 , num2;
+int sum = num1 - num2; 
+cout << sum;
+
+return 0;
+}

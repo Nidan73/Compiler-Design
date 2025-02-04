@@ -1,0 +1,5 @@
+Name            Dept      CGPA
+
+Nipa Nasrin     CSE       3.78
+Karim Hossain   BBA       3.56
+Shaheen Shah    CSE       3.98
